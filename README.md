@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🌱 I’m currently learning NLP and RL. I am preparing for the Phd now.
+Now I am doing two directions.One is "Complex repository handles code" ，and the other is "Table Data Classification Based on Deep Learning".
 <!--
 **LOVEISI/LOVEISI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
